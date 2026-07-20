@@ -1,0 +1,6 @@
+[submodule "robolab"]
+	path = robolab
+	url = https://github.com/Astronex-Robotics/robotlab.git
+[submodule "rsl_rl"]
+	path = rsl_rl
+	url = https://github.com/Astronex-Robotics/rsl_rl.git
