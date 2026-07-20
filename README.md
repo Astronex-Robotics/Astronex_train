@@ -75,7 +75,7 @@ python robolab/scripts/rsl_rl/train.py --task=Astronex-AMP --headless --logger=t
 ### Play
 
 ```bash
-python robolab/scripts/rsl_rl/play.py --task=Astronex-AMP-Play --num_envs=1
+python robolab/scripts/rsl_rl/play.py --task=Astronex-Play --num_envs=1
 ```
 
 ### Play AMP
